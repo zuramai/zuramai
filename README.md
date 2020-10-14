@@ -8,3 +8,4 @@
 - 😄 I'm natively speak Indonesian and fluently speak english especially british accent <3 
 - 💕 I'm currently fall in love with NuxtJS and Laravel
 - 📫 You can reach me at personal@ahmadsaugi.com
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&theme=vue">
