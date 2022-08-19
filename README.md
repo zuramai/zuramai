@@ -1,15 +1,12 @@
 <p align="center">
-  <a href="https://twitter.com/evilsocket">
-    <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40evilsocket&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
+  <a href="https://twitter.com/zuramai">
+    <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40zuramai&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
   <a href="https://www.linkedin.com/in/ahmad-saugi/">
     <img src="https://img.shields.io/badge/-ahmad%20saugi-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="mailto:evilsocket@gmail.com">
+  <a href="mailto:saugi.dev@gmail.com">
     <img src="https://img.shields.io/badge/saugi.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  <a href="https://keybase.io/evilsocket">
-    <img src="https://img.shields.io/keybase/pgp/zuramai?style=for-the-badge&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
 </p>
 
