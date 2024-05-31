@@ -1,14 +1,23 @@
-<p align="center">
-  <a href="https://twitter.com/asawgi">
-    <img src="https://img.shields.io/twitter/follow/asawgi?style=for-the-badge&label=%40zuramai&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
-  </a>
-  <a href="https://www.linkedin.com/in/ahmad-saugi/">
-    <img src="https://img.shields.io/badge/-ahmad%20saugi-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  <a href="mailto:saugi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/saugi.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-</p>
+A computer science student. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. and I'd like to thank these companies for [sponsoring](https://github.com/sponsors/tj) my open-source work:
+
+<table>
+  <tr>
+    <td>
+      <p align="center">
+      <a href="https://lokal.so/?ref=zuramai">
+      <img src="https://github.com/zuramai/zuramai/blob/master/sponsors/lokalso.png?raw=true"  width="30%">
+      </a>
+      </p>
+    </td>
+    <tr>
+    <td>
+      <p align="center">
+        <a href="https://github.com/sponsors/zuramai">Become a sponsor</a>
+      </p>
+    </td>
+    </tr>
+  </tr>
+</table>
 
 <a href="https://github.com/zuramai">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zuramai&count_private=true&show_icons=true&theme=chartreuse-dark" />
@@ -16,3 +25,4 @@
 <a href="https://github.com/zuramai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
+
